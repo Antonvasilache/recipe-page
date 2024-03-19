@@ -78,7 +78,6 @@ body {
 .prep-list,
 .ingredients-list,
 .instructions-list {
-  padding-inline-start: 1rem;
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
